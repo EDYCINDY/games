@@ -1,0 +1,3 @@
+{
+  "name":"AI Organizer App","short_name":"AI Organizer","start_url":"./","display":"standalone","orientation":"any","background_color":"#f5f7fb","theme_color":"#635bff","description":"Organizer pribadi dengan AI, jadwal, task, reminder dan catatan.","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
